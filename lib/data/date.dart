@@ -1,7 +1,7 @@
 class DateData {
   int nowYear   = 0;
   int nowMonth  = 0;
-  int nowDay    = 0;
+  int nowDay    = -1;
   int nowHour   = 0;
   int nowMinute = 0;
   int nowSecond = 0;

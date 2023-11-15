@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:yechanclock/image_data.dart';
+import 'package:yechanclock/data/image_data.dart';
 
 class LockPage extends StatefulWidget {
   const LockPage({super.key});
